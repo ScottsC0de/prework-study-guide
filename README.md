@@ -1,4 +1,4 @@
-# UConn Coding Bootcamp: Prework Study Guide
+# UConn Coding Bootcamp: Pre-work Study Guide
 
 ## Description
 
